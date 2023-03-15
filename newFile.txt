@@ -1,0 +1,11 @@
+Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
+
+Frameworks available in node for cli commands : Check out Vorpal and Commander.js.
+
+There are lots of interesting projects for building CLIs. I'll list some of them below:
+
+Vorpal
+Commander.js
+Caporal
+Seeli ( C. L. I. )
+Oclif
